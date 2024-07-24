@@ -13,3 +13,10 @@ header{
 a{
     color: white;
 }
+
+/* JUMBOTRON */
+
+#jumbotron{
+    height: 500px;
+    background-color: #1ABC9C;
+}
