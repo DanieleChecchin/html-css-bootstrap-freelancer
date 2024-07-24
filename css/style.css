@@ -26,3 +26,10 @@ a{
 #portfolio{
     height: 500px;
 }
+
+/* ABOUT */
+
+#about{
+    height: 500px;
+    background-color: #1ABC9C;
+}
