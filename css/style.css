@@ -1,0 +1,15 @@
+
+/* HEADER */
+
+header{
+    height: 100px;
+    background-color: #2C3E50;
+}
+
+.col{
+    border: 1px solid white;
+}
+
+a{
+    color: white;
+}
