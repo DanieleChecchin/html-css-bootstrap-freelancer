@@ -39,3 +39,10 @@ a{
 #contact{
     height: 500px;
 }
+
+/* FOOTER */
+
+footer{
+    height: 250px;
+    background-color: #3A546D;
+}
