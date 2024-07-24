@@ -7,7 +7,7 @@ header{
 }
 
 .col{
-    border: 1px solid white;
+    border: 1px solid goldenrod;
 }
 
 a{
@@ -19,4 +19,10 @@ a{
 #jumbotron{
     height: 500px;
     background-color: #1ABC9C;
+}
+
+/* PORTFOLIO */
+
+#portfolio{
+    height: 500px;
 }
