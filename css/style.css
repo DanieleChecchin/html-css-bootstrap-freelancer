@@ -1,8 +1,7 @@
 
 /* HEADER */
 
-header{
-    height: 100px;
+.bg-dark-header{
     background-color: #2C3E50;
 }
 
@@ -17,7 +16,7 @@ a{
 /* JUMBOTRON */
 
 #jumbotron{
-    height: 500px;
+    min-height: 500px;
     background-color: #1ABC9C;
 }
 
