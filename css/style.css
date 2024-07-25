@@ -34,8 +34,12 @@ a{
 
 /* CONTACT */
 
-#contact{
-    height: 500px;
+#contact ::placeholder{
+    color: rgb(36, 36, 36);
+}
+
+.bg-send{
+    background-color: #1ABC9C;
 }
 
 /* FOOTER */
