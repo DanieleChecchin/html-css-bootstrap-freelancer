@@ -16,8 +16,12 @@ a{
 /* JUMBOTRON */
 
 #jumbotron{
-    min-height: 500px;
+    min-height: 50px;
     background-color: #1ABC9C;
+}
+
+#jumbotron img{
+    width: 40%;
 }
 
 /* PORTFOLIO */
